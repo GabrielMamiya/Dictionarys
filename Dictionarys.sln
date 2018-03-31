@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionarys", "Dictionarys\Dictionarys.csproj", "{3630AF4D-F9EE-4B2A-A7E2-47F1BEE07541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3630AF4D-F9EE-4B2A-A7E2-47F1BEE07541}.Debug|x86.ActiveCfg = Debug|x86
+		{3630AF4D-F9EE-4B2A-A7E2-47F1BEE07541}.Debug|x86.Build.0 = Debug|x86
+		{3630AF4D-F9EE-4B2A-A7E2-47F1BEE07541}.Release|x86.ActiveCfg = Release|x86
+		{3630AF4D-F9EE-4B2A-A7E2-47F1BEE07541}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
